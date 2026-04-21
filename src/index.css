@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #F2ECE0;
+  font-family: 'IBM Plex Sans', system-ui, -apple-system, sans-serif;
+}
+
+.soft-border {
+  border-color: #E5DFD3;
+}
